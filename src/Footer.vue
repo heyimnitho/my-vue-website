@@ -21,7 +21,7 @@
                     </li>
                     <hr />
                     <li class="lg:w-1/2 mb-0.5 xl:-ml-20 w-1/2">
-                        <a class="@dark:hover:text-white hover:text-gray-700 transition-all duration-150" href="https://mertjf.github.io/tailblocks/">Skills & Footer Design</a>
+                        <a class="@dark:hover:text-white hover:text-gray-700 transition-all duration-150" href="https://tailblocks.cc/">Skills & Footer Design</a>
                     </li>
                     <li class="lg:w-1/2 mb-0.5 w-1/3">
                         <a class="@dark:hover:text-white hover:text-gray-700 transition-all duration-150" href="https://github.com/eggsy/lanyard-visualizer">EGGSY's Lanyard Visualizer</a>
