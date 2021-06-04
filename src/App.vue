@@ -84,7 +84,7 @@
         </div>
         <div v-else class="text-gray-800 @dark:text-white">I'm not listening anything right now, check it back later.</div>
       </div>
-      <p class="border-l-2 border-gray-700 @dark:border-gray-100 px-2 text-md text-black text-shadow-sm @dark:text-white ml-1 hover:underline hover:underline-dashed hover:underline-opacity-25">powered by <a href="https://github.com/phineas/lanyard" class="underline">lanyard</a>!</p>
+      <p class="border-l-2 border-gray-700 @dark:border-gray-100 px-2 text-md text-black text-shadow-sm @dark:text-white ml-1">powered by <a href="https://github.com/phineas/lanyard" class="underline hover:underline-double">lanyard</a>!</p>
       <span class="mt-5"/>
     </div>
   </div>
