@@ -8,7 +8,7 @@
         <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
       </svg>
         -->
-      <span class="ml-2 text-xl @dark:text-white hover:underline" draggable="false" href="/">nitho.co</span>
+      <span class="ml-2 text-xl @dark:text-white hover:underline" draggable="false" href="/">nitho.ga</span>
     </a>
     <nav class="ml-auto md:mr-auto flex flex-initial flex-wrap items-start text-start text-lg justify-start">
       <a class="-mx-8 mr-6 py-2 sm:py-1 sm:px-2 hover:text-gray-900 hover:bg-gray-200 rounded-lg hover:underline hover:underline-dashed transition-all duration-150" href="https://nitho.medium.com/">Medium</a>
