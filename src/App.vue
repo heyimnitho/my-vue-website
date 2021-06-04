@@ -29,7 +29,7 @@
             About me
         </h1>
         <div class="mt-1">
-          <p class="border-l-1 sm:border-l-2 border-gray-400 px-3 md:px-4 text-sm sm:text-lg text-black @dark:text-white justify-center items-center">
+          <p class="border-l-1 sm:border-l-2 border-gray-700 @dark:border-gray-100 px-3 md:px-4 text-sm sm:text-lg text-black @dark:text-white justify-center items-center">
             Hey there, Huseyin here. 19 y.o. front-end developer from 
             <a href="https://en.wikipedia.org/wiki/Turkey" class="hover:underline text-red-600">Turkey</a>. 
             <br> Right now, I'm trying to develop even further to become a full-stack developer asap. Although, I'm not understanding back-end algorithms right now but I'm pushing myself day by day. <br>
