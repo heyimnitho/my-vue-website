@@ -9,7 +9,7 @@ export default defineConfig({
   plugins: [
     Vue(),
     WindiCSS({
-      config: resolve("./windi.config.js"),
+      config: resolve("./windi.config.ts"),
     }),
   ],
 });
