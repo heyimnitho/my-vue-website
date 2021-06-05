@@ -14,7 +14,7 @@
                         Hüseyin {{ nick }} Yalçın
                     </p>
                     <p 
-                    class="text-xs sm:text-base text-violet-300 opacity-75 pt-3 pb-4 px-4 w-58 inline-block border-b-2 border-gray-500 @dark:border-white"
+                    class="text-xs sm:text-base text-violet-600 @dark:text-violet-300 opacity-75 pt-3 pb-4 px-4 w-58 inline-block border-b-2 border-gray-500 @dark:border-white"
                     draggable="false"
                     >
                         Front-End Developer
