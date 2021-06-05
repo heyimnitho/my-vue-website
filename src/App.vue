@@ -33,7 +33,7 @@
             Hey there, Huseyin here. 19 y.o. front-end developer from 
             <a href="https://en.wikipedia.org/wiki/Turkey" class="hover:underline text-red-600">Turkey</a>. 
             <br> Right now, I'm trying to develop even further to become a full-stack developer asap. Although, I'm not understanding back-end algorithms right now but I'm pushing myself day by day. <br>
-            Most of the time, I'm using <a class="text-blue-500 hover:underline" href="https://reactjs.org/">React</a> (as valueable as <a class="text-gray-800 @dark:text-gray-400 hover:underline" href="https://nextjs.org/">Next.js</a> too) but these days, I'm jumped into <a class="hover:underline text-green-400" href="https://vuejs.org/">Vue.js</a> because of the usage. <br>
+            Most of the time, I'm using <a class="text-blue-500 hover:underline" href="https://reactjs.org/">React</a> (as valueable as <a class="text-gray-800 @dark:text-gray-400 hover:underline" href="https://nextjs.org/">Next.js</a> too) but these days, I've jumped into <a class="hover:underline text-green-400" href="https://vuejs.org/">Vue.js</a> because of the usage. <br>
             But! I like <a class="text-blue-500" draggable="false">React</a> a lot. Actually, I'm not separting both of these JS frameworks but React is way more useful for me.
         </p>
         </div>
