@@ -27,7 +27,7 @@
                         <a class="@dark:hover:text-white hover:text-gray-900 text-warm-gray-600 transition-all duration-150" href="https://github.com/eggsy/lanyard-visualizer">EGGSY's Lanyard Visualizer</a>
                     </li>
                     <li class="lg:w-1/2 mb-1 xl:-ml-18 w-1">
-                        <a class="@dark:hover:text-white hover:text-gray-900 text-warm-gray-600 transition-all duration-150" href="https://icones.js.org/">icònes.js.org</a>
+                        <a class="@dark:hover:text-white hover:text-gray-900 text-warm-gray-600 transition-all duration-150" href="https://icones.js.org/">icônes.js.org</a>
                     </li>
                 </nav>
             </div>

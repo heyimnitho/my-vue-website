@@ -29,7 +29,7 @@
             About me
         </h1>
         <div class="mt-1">
-          <p class="border-l-1 sm:border-l-2 border-gray-700 @dark:border-gray-100 px-3 md:px-4 text-sm sm:text-lg text-black @dark:text-white justify-center items-center">
+          <p class="border-l-1 sm:border-l-2 border-gray-700 @dark:border-gray-100 px-3 md:px-4 text-md sm:text-lg text-black @dark:text-white justify-center items-center">
             Hey there, Huseyin here. 19 y.o. front-end developer from 
             <a href="https://en.wikipedia.org/wiki/Turkey" class="hover:underline text-red-600">Turkey</a>. 
             <br> Right now, I'm trying to develop even further to become a full-stack developer asap. Although, I'm not understanding back-end algorithms right now but I'm pushing myself day by day. <br>
@@ -53,7 +53,7 @@
                 :src="getPlayingStatus?.image"
                 width="128"
                 height="128"
-                class="rounded-xl sm:rounded-2xl sm:h-30 sm:w-30 h-14 w-14"
+                class="rounded-xl sm:rounded-2xl sm:h-30 sm:w-30 h-16 w-16"
                 draggable="false"
               />
             </div>
@@ -82,7 +82,7 @@
             />
           </div>
         </div>
-        <div v-else class="text-gray-800 @dark:text-white">I'm not listening anything right now, check it back later.</div>
+        <div v-else class="text-gray-800 @dark:text-white sm:text-base text-sm">I'm not listening anything right now, check it back later.</div>
       </div>
       <p class="border-l-2 border-gray-700 @dark:border-gray-100 px-2 text-md text-black text-shadow-sm @dark:text-white ml-1">powered by <a href="https://github.com/phineas/lanyard" class="underline hover:underline-double">lanyard</a>!</p>
       <span class="mt-5"/>
