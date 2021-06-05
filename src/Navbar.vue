@@ -3,7 +3,7 @@
         <header class="text-gray-800 @dark:text-white body-font">
   <div class="container mx-auto flex flex-wrap p-7 flex-col md:flex-row items-start">
     <a class="flex title-font font-medium items-center text-black mb-6 md:mb-0">
-      <span class="ml-2 text-xl @dark:text-white hover:underline" draggable="false" href="/">nitho.ga</span>
+      <span class="ml-2 text-xl @dark:text-white hover:underline" draggable="false" href="/">nith.codes</span>
     </a>
     <nav class="ml-auto <md:mr-auto flex flex-initial flex-wrap items-start text-start text-lg justify-start">
       <a class="-mx-7 mr-5 py-2 px-1 sm:py-1 sm:px-2 hover:text-gray-900 hover:bg-gray-200 rounded-xl transition-all duration-200" href="https://nitho.medium.com/">Medium</a>
