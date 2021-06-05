@@ -6,8 +6,8 @@
       <span class="ml-2 text-xl @dark:text-white hover:underline" draggable="false" href="/">nitho.ga</span>
     </a>
     <nav class="ml-auto <md:mr-auto flex flex-initial flex-wrap items-start text-start text-lg justify-start">
-      <a class="-mx-8 mr-6 py-2 sm:py-1 sm:px-2 hover:text-gray-900 hover:bg-gray-200 rounded-lg transition-all duration-150" href="https://nitho.medium.com/">Medium</a>
-      <a class="mr-7 py-2 sm:py-1 sm:px-2 hover:text-gray-900 hover:bg-gray-200 rounded-lg transition-all duration-150" href="https://github.com/heyimnitho?tab=repositories">Repositories</a>
+      <a class="-mx-7 mr-5 py-2 sm:py-1 sm:px-2 hover:text-gray-900 hover:bg-gray-200 rounded-lg transition-all duration-150" href="https://nitho.medium.com/">Medium</a>
+      <a class="mr-5 py-2 sm:py-1 sm:px-2 hover:text-gray-900 hover:bg-gray-200 rounded-lg transition-all duration-150" href="https://github.com/heyimnitho?tab=repositories">Repositories</a>
       <a class="-mx-1 mr-2 py-2 sm:py-1 sm:px-2 hover:text-gray-900 hover:bg-gray-200 rounded-lg transition-all duration-150" href="https://open.spotify.com/user/i1ftnp8o2z994a72zglh311rn">Spotify</a>
     </nav>
     <span class="border-0 py-1 px-3 mt-4 md:mt-0 inline-flex items-center w-4 h-4 ml-1"/>
