@@ -4,7 +4,7 @@
             <div class="flex flex-col justify-center max-w-sm my-6 mx-auto bg-white shadow-2xl shadow-gray-900 rounded-xl p-9 @dark:bg-gray-900">
                 <div class="">
                     <img 
-                    class="w-36 transition-all duration-200 hover:w-32 mx-auto shadow-2xl ring-4 ring-gray-900 ring-opacity-25 @dark:ring-light-400 @dark:ring-opacity-50 rounded-full" 
+                    class="w-32 mx-auto shadow-2xl ring-4 ring-gray-900 ring-opacity-20 @dark:ring-light-400 @dark:ring-opacity-30 rounded-full" 
                     src="https://avatars.githubusercontent.com/u/60431344?s=400&u=4ca1b9f8d86aef774e5962e9799f49093d0abd29&v=4" 
                     alt="Nith's Photo" 
                     />
