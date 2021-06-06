@@ -40,7 +40,7 @@
       </div>
       <!-- Spotify - About -->
       <span class="border-t-3 sm:border-t-2 border-black @dark:border-white"/>
-      <h1 class="text-3xl text-black @dark:text-white ml-2 ">What I'm listening up to now!</h1>
+      <h1 class="text-3xl text-black @dark:text-white ml-2 ">What I'm listening right now on Spotify</h1>
       <!-- Spotify Status -->
       <div
         :class="isConnecting && 'animate-pulse'"
