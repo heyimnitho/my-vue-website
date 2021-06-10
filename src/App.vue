@@ -96,7 +96,7 @@ import Card from "./components/Card.vue";
 import Progress from "./components/assets/Progress.vue";
 import type { LanyardData } from "./types/lanyard";
 // Fallback user ID that'll be used if there's no one specified as a parameter
-const fallbackUserId = "495584014934081538";
+const fallbackUserId = "812653042074779687";
 // References
 const socketLoaded = ref(true);
 const user = reactive({ data: {} }) as { data: LanyardData };
